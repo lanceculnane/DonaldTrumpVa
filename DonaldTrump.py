@@ -128,7 +128,7 @@ print "\t-"*100
 print "\tThat's ", answer/60, " hours"
 print "\t...and ", answer/1440, " days"
 print "\t...and ", answer/525600, " YEARS"
-print "...which is ", answer/126144000, " times the age of the United States"
+print "\t...which is ", answer/126144000, " times the age of the United States"
 print "\t...so... out of the 1460 days in his 4-yr term, he will spend ", ((answer/1440)/1460)*100, " percentage of his time on the phone."
 print "\t...making America Great Again one phone call at a time!"
 print "\t-"*100
